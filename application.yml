@@ -13,7 +13,7 @@ microservice:
     endpoints:
       endpoint:
         uri: http://PRODUCT-SERVICE
-  image-service:
+  file-service:
     endpoints:
       endpoint:
-        uri: http://IMAGE-SERVICE   
+        uri: http://FILE-SERVICE   
